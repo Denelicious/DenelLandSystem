@@ -5,7 +5,6 @@
      font-family:sans-serif;
      margin:0 auto;
 }
-
 .header{
     width:90%;
     margin:auto;
@@ -25,13 +24,10 @@
     width:90%;
     margin:0 auto;
     padding:0 auto;
-    
 }
-
 .menu ul {
   list-style:none;
 }
-
 .menu ul li a {
     float:left;
     width:70px;
@@ -40,7 +36,6 @@
     color:#FFF;
     text-decoration:none;
 }
-
 .menu ul li a:hover {
   background-color:#4b88bb;
   display:block;
